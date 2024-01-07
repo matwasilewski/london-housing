@@ -11,6 +11,8 @@ packages = [
 [tool.poetry.dependencies]
 python = "^3.9"
 tomlkit = "^0.12.3"
+jupyter = "^1.0.0"
+jupyter-server = "^2.12.2"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "6.2.5"
